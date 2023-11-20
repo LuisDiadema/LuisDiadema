@@ -6,6 +6,7 @@
 - Search for internship vacancies
 - Future Software Engineer
 
+<br><br>
 # 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
