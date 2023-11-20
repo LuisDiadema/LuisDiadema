@@ -1,4 +1,4 @@
-<h1 aligns"center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luis Gustavo</h1>
+<h1 aligns"center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Luis Gustavo</h1>
 
 # 🛠 &nbsp;Tech Stack
 
