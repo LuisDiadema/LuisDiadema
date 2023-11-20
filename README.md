@@ -1,5 +1,10 @@
 <h1 aligns"center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Luis Gustavo</h1>
 
+- Systems Analysis and Development Course
+- Learning and programming was my passion and I want to be able to make a living from it one day.
+- Search for internship vacancies
+- Future Software Engineer
+
 # 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
