@@ -20,6 +20,4 @@
 ![C# e C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C#)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
 
-<br><br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuisDiadema&theme=graywhite)](https://git.io/streak-stats)
