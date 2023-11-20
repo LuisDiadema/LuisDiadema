@@ -3,10 +3,10 @@
 <br>
 
 **About me**
-- Systems Analysis and Development Course
-- Learning and programming was my passion and I want to be able to make a living from it one day.
-- Search for internship vacancies
-- Future Software Engineer
+- 👨🏻‍🎓 Systems Analysis and Development Course
+- ❤ Learning and programming was my passion and I want to be able to make a living from it one day.
+- 👨🏻‍💻 Search for internship vacancies
+- 💻 Future Software Engineer
 
 <br>
 
