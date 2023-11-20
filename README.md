@@ -1,3 +1,5 @@
+<h1 aligns"center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luis Gustavo</h1>
+
 # 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -8,4 +10,4 @@
 ![C# e C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C#)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MYSQL)&nbsp;
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LuisDiadema&theme=city-lights&hide_border=falso)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisDiadema&theme=graywhite)](https://git.io/streak-stats)
