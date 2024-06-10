@@ -3,8 +3,8 @@
 <br>
 <div>
     <a href="https://github.com/LuisDiadema">
-        <img heigth="2200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiadema&theme=swift&layout=compact"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisDiadema&theme=swift&show_icons=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDiadema&theme=swift&layout=compact"/>
+        <img height="1em" src="https://github-readme-stats.vercel.app/api?username=LuisDiadema&theme=swift&show_icons=true"/>
 </div>
 <br>
 
