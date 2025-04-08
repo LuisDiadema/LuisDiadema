@@ -25,6 +25,5 @@
     <img align="center" alt="luis-C#" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="luis-C" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img align="center" alt="luis-SQL" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-    <img align="center" alt="luis-JavaScript" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original-wordmark.svg"/>
         
 </div>
