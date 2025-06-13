@@ -21,7 +21,7 @@
 <div>
     <img align="center" alt="luis-HTML" heigth="40" width="50" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"/>
     <img align="center" alt="luis-CSS" heigth="40" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000"/>
-    <img align="center" alt="luis-javaScript" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="luis-javaScript" heigth="40" width="50" border-radius="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="luis-React" heigth="40" width="50" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/>
     <img align="center" alt="luis-Java" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="luis-C#" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
