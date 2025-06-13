@@ -19,7 +19,7 @@
 # 🛠 &nbsp;Tech Stack
 
 <div>
-    <img align="center" alt="luis-HTML" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+    <img align="center" alt="luis-HTML" heigth="40" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
     <img align="center" alt="luis-CSS" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img align="center" alt="luis-javaScript" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="luis-React" heigth="40" width="50" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"/>
